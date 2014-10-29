@@ -1,1 +1,5 @@
-[]
+[
+	{"name" : "Jumpman", "type" : "image"},
+	{"name" : "Cloud", "type" : "image"},
+	{"name" : "CloudScene", "type" : "json"}
+]
