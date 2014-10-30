@@ -1,5 +1,8 @@
 [
 	{"name" : "Jumpman", "type" : "image"},
 	{"name" : "Cloud", "type" : "image"},
-	{"name" : "CloudScene", "type" : "json"}
+	{"name" : "Brick", "type" : "image"},
+	{"name" : "CloudScene", "type" : "json"},
+	{"name" : "BrickScene", "type" : "json"},
+	{"name" : "Jumpman", "type" : "json"}
 ]
